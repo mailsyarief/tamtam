@@ -15,15 +15,15 @@ a {
 }
 
 a:hover {
-	color:#0b1677;
+	color:#1729c4;
 }
 
 footer .nav-list li a:hover,footer ul.regular li a:hover  {
-	color:#0b1677;
+	color:#1729c4;
 }
 
 .btn-link:hover {
-  color: #0b1677;
+  color: #1729c4;
 }
 
 .btn-color {
@@ -34,8 +34,8 @@ footer .nav-list li a:hover,footer ul.regular li a:hover  {
 .btn-color.active,
 .btn-color.disabled,
 .btn-color[disabled] {
-  background: #0b1677;
-  *background: #0b1677;
+  background: #1729c4;
+  *background: #1729c4;
 }
 
 /* portfolio */
