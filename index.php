@@ -19,8 +19,7 @@
             <div class="span4">
               <!-- logo -->
               <div class="logo">
-                <h1><a href="./"></a></h1>
-                <img src="assets/img/slides/cuk.png" width="60rem">
+                <a href="./"><img src="assets/img/slides/cuk.png" width="60rem"></a>
                 <!-- <img src="assets/img/logo.png" alt="" /> -->
               </div>
               <!-- end logo -->
