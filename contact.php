@@ -19,7 +19,8 @@
             <div class="span4">
               <!-- logo -->
               <div class="logo">
-                <h1><a href="./">AGS</a></h1>
+                <h1><a href="./"></a></h1>
+                <img src="assets/img/slides/cuk.png" width="60rem">
                 <!-- <img src="assets/img/logo.png" alt="" /> -->
               </div>
               <!-- end logo -->
