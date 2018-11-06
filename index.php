@@ -60,7 +60,7 @@
     <div class="container">
       <div class="row">
         <div class="span6">
-          <h2><strong>Professional <span class="highlight primary">Transportasi</span></strong></h2>
+          <h2><strong>Professional <span class="highlight primary" style="background-color: #18237c !important;">Transportasi</span></strong></h2>
           <br>
           <p class="lead">
             PT Artha Graha merupakan perusahan yang beroperasi selama 23 tahun. Perusahaan kami melayani berbagai bidang dalam solusi kargo serta dapat menjadi mitra yang dapat diandalkan untuk saat ini dan masa depan.
