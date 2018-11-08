@@ -83,31 +83,40 @@
               <i class="icon-bg-light icon-circled icon-group icon-3x active"></i>
               <h4><strong>Tentang</strong> Kami</h4>
               <p>
-                PT Artha Graha merupakan perusahan yang beroperasi selama 23 tahun. Perusahaan kami melayani berbagai bidang dalam solusi kargo serta dapat menjadi mitra yang dapat diandalkan untuk saat ini dan masa depan.
-                PT Artha Graha merupakan perusahaan yang didirikan sejak 1995. Perusahaan yang awalnya anak usaha PT Sinar Pasific, dan sekarang perusahaan ini telah berkembang menjadi pemain yang diakui dalam industry pelayaran. 
+                Pada tahun 1995 masih merupakan kantor cabang dari PT Sinar Pasific. Pada tahun 1997 didirikan perusahaan baru dengan nama PT Daya Tirta Samudera, Namun dengan diberlakukan nya Peraturan Menteru Perhubungan PM 93/2003 tahun 2013 yang menyebutkan bahwa pelayaran diwajibkan untuk memiliki armada sendiri, makai zin untuk PT Daya Tirta Samudera ditarik kembali. Dengan semangan dan perjuangan, kami bisa berkembang menjadi 3 buah perusahaan yang kegiiatan nya saling menunjang yaitu :
+                <ol type="a">
+                  <li>Perusahaan pelayaran Artha Graha Samudera</li>
+                  <li>Perusahaan bongkar muat Artha Graha Stuwarindo</li>
+                  <li>Perusahaan Forwarding Artha Graha Kencana</li>
+                </ol>
               </p>
             </div>
           </div>
         </div>
-        <div class="span6">
+        <div class="span12">
           <div class="well">
             <div class="centered e_bounce">
               <i class="icon-bg-light icon-circled icon-rocket icon-3x active"></i>
               <h4><strong>Visi</strong> Kami</h4>
               <p>
-                Menjadi perusahaan yang terdepan dalam industri pelayaran dan terpecaya pada bidang bongkar muat, persewaan kapan dan ekspedisi.
+                Menjadi yang terdepan dalam industri pelayaran dan terpercaya khususnya di bidang Bongkar Muat, Persewaan Kapal, dan Ekspedisi Muatan Kapal Laut (EMKL) atau Forwarding yang diakui kualitas pelayanan dan profesionalisme kerja.
               </p>
             </div>
           </div>
         </div>
-        <div class="span6">
+        <div class="span12">
           <div class="well">
             <div class="centered e_bounce">
               <i class="icon-bg-light icon-circled icon-heart icon-3x active"></i>
               <h4><strong>Misi</strong> Kami</h4>
+              <p>
+                Memberikan layanan berkualitas, serta mengarahkan semua proses yang terbaik dari perusahaan kami untuk fokus tidak hanya pada hasil transaksi, tetapi tetap mengedepankan semua aspek pelayanan kepada pelanggan. Untuk mewujudkan misi kami, kami senantiasa berpegang teguh pada nilai-nilai prinsip sebagai berikut :
+              </p>
+              <li>Mengedepankan profesionalitas kerja</li>
+              <li>Memiliki integritas yang tinggi, kejujuran, konsisten, komitmen, dan dapat dipercaya</li>
               <li>Fokus untuk memberikan pelayanan terbaik</li>
-              <li>Memiliki jiwa integritas yang tinggi</li>
-              <li>Mengedepankan professional kerja</li>
+              <li>Pembelajaran yang berkelanjutan</li>
+              <li>Disiplin dalam mengikuti dan mentaati seluruh peraturan serta prosedur yang berlaku dalam setiap kegiatan kerja yang dilakukan</li>
             </div>
           </div>
         </div>

@@ -63,7 +63,7 @@
           <h2><strong>Professional <span class="highlight primary" style="background-color: #18237c !important;">Transportasi</span></strong></h2>
           <br>
           <p class="lead">
-            PT Artha Graha merupakan perusahan yang beroperasi selama 23 tahun. Perusahaan kami melayani berbagai bidang dalam solusi kargo serta dapat menjadi mitra yang dapat diandalkan untuk saat ini dan masa depan.
+            Perusahan yang beroperasi selama 23 tahun. Perusahaan kami melayani berbagai bidang dalam solusi kargo serta dapat menjadi mitra yang dapat diandalkan untuk saat ini dan masa depan.
           </p>
 
         </div>
@@ -244,7 +244,7 @@
         <div class="span4">
           <div class="features">
             <div class="icon">
-              <i class="icon-bg-dark icon-circled fas fa-shipping-fast icon-5x"></i>
+              <i class="icon-bg-dark icon-circled fas fa-ship icon-5x"></i>
             </div>
             <div class="features_content">
               <h3>PT ARTHA GRAHA SAMUDRA</h3>
@@ -265,21 +265,21 @@
               <p class="left">
                 Perusahaan yang bergerak dalam kegiatan membongkar/memuat barang (ex tackle) dari/ke kapal.
               </p>
-              <a href="service.php" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Read more</a>
+              <a href="service.php?id=2" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Read more</a>
             </div>
           </div>
         </div>
         <div class="span4">
           <div class="features">
             <div class="icon">
-              <i class="icon-bg-dark icon-circled fas fa-ship icon-5x"></i>
+              <i class="icon-bg-dark icon-circled fas fa-shipping-fast icon-5x"></i>
             </div>
             <div class="features_content">
               <h3>PT ARTHA GRAHA KENCANA</h3>
               <p class="left">
                 Perusahaan yang bergerak dalam pemberian jasa untuk kepentingan pemilik barang (shipper)/consignee.
               </p>
-              <a href="service.php" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Read more</a>
+              <a href="service.php?id=3" class="btn btn-color btn-rounded"><i class="icon-angle-right"></i> Read more</a>
             </div>
           </div>
         </div>

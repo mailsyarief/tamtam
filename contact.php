@@ -89,6 +89,11 @@
                     031 - 3281426
                   </p>
                 </li>
+                <li><label><i class="fas fa-fax"></i> <strong>Fax</strong></label>
+                  <p>
+                    031 - 32910004
+                  </p>
+                </li>
                 <li><label><i class="fas fa-mobile-alt"></i> <strong>Mobile</strong></label>
                   <p>
                     08155144550<br>
@@ -112,7 +117,7 @@
         </div>
         <div class="span8">
           <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH7uJFMX41y0RjrlIfYAt25k&key=AIzaSyAi99TYLqlqTOPShWzT1sP6FmV_LxMmcPk" width="100%" height="530" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH7uJFMX41y0RjrlIfYAt25k&key=AIzaSyAi99TYLqlqTOPShWzT1sP6FmV_LxMmcPk" width="100%" height="610" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
           <div class="spacer30">
           </div>
