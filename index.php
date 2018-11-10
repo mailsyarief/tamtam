@@ -8,59 +8,14 @@
 </head>
 
 <body>
-  <header>
-    <!-- Navbar
-    ================================================== -->
-    <div class="cbp-af-header">
-      <div class=" cbp-af-inner">
-        <div class="container">
-          <div class="row">
-
-            <div class="span4">
-              <!-- logo -->
-              <div class="logo">
-                <a href="./"><img src="assets/img/slides/cuk.png" width="60rem"></a>
-                <!-- <img src="assets/img/logo.png" alt="" /> -->
-              </div>
-              <!-- end logo -->
-            </div>
-
-            <div class="span8">
-              <!-- top menu -->
-              <div class="navbar">
-                <div class="navbar-inner">
-                  <nav>
-                    <ul class="nav topnav">
-                      <li class="active">
-                        <a href="./"><i class="fas fa-home"></i> Home</a>
-                      </li>
-                      <li>
-                        <a href="about.php"><i class="fas fa-info-circle"></i> About</a>
-                      </li>
-                      <li>
-                        <a href="service.php"><i class="fas fa-concierge-bell"></i> Service</a>
-                      </li>
-                      <li>
-                        <a href="contact.php"><i class="fas fa-phone"></i> Contact</a>
-                      </li>
-                    </ul>
-                  </nav>
-                </div>
-              </div>
-              <!-- end menu -->
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
+  <?php
+  include('header.php');
+  ?>
   <section id="intro">
-
     <div class="container">
       <div class="row">
         <div class="span6">
-          <h2><strong>Professional <span class="highlight primary" style="background-color: #18237c !important;">Transportasi</span></strong></h2>
+          <h2><strong>Professional <span class="highlight primary">Transportasi</span></strong></h2>
           <br>
           <p class="lead">
             Perusahan yang beroperasi selama 23 tahun. Perusahaan kami melayani berbagai bidang dalam solusi kargo serta dapat menjadi mitra yang dapat diandalkan untuk saat ini dan masa depan.
@@ -230,7 +185,6 @@
                 </li>
               </ul>
             </div>
-            <!-- /.section-2 -->
           </div>
 
         </div>
@@ -247,7 +201,7 @@
               <i class="icon-bg-dark icon-circled fas fa-ship icon-5x"></i>
             </div>
             <div class="features_content">
-              <h3>PT ARTHA GRAHA SAMUDRA</h3>
+              <h3>PT ARTHA GRAHA SAMUDERA</h3>
               <p class="left">
                 Kegiatan pengusahaan kapal merupakan pokok dari perusahaan pelayaran.
               </p>
@@ -337,6 +291,11 @@
 
   <!-- Template Custom Javascript File -->
   <script src="assets/js/custom.js"></script>
+  <script type="text/javascript">
+    $( document ).ready(function() {
+      $('#home').addClass('active');
+    });
+  </script>
 
 </body>
 

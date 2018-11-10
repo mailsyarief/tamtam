@@ -8,51 +8,9 @@
 </head>
 
 <body>
-  <header>
-    <!-- Navbar
-    ================================================== -->
-    <div class="cbp-af-header">
-      <div class=" cbp-af-inner">
-        <div class="container">
-          <div class="row">
-
-            <div class="span4">
-              <!-- logo -->
-              <div class="logo">
-                <a href="./"><img src="assets/img/slides/cuk.png" width="60rem"></a>
-              </div>
-              <!-- end logo -->
-            </div>
-
-            <div class="span8">
-              <!-- top menu -->
-              <div class="navbar">
-                <div class="navbar-inner">
-                  <nav>
-                    <ul class="nav topnav">
-                      <li>
-                        <a href="./"><i class="fas fa-home"></i> Home</a>
-                      </li>
-                      <li>
-                        <a href="about.php"><i class="fas fa-info-circle"></i> About</a>
-                      </li>
-                      <li class="active">
-                        <a href="service.php"><i class="fas fa-concierge-bell"></i> Service</a>
-                      </li>
-                      <li>
-                        <a href="contact.php"><i class="fas fa-phone"></i> Contact</a>
-                      </li>
-                    </ul>
-                  </nav>
-                </div>
-              </div>
-              <!-- end menu -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
+  <?php
+  include('header.php');
+  ?>
   <!-- Subhead
 ================================================== -->
   <section id="subintro">
@@ -64,7 +22,7 @@
         </div>
         <div class="span8">
           <ul class="breadcrumb notop">
-            <li><a href="#">Home</a><span class="divider">/</span></li>
+            <li><a href="./">Home</a><span class="divider">/</span></li>
             <li class="active">About</li>
           </ul>
         </div>
@@ -87,7 +45,7 @@
             <div class="accordion-group">
               <div class="accordion-heading">
                 <a id="satu-btn" class="accordion-toggle active" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-                <i id="satu-icon" class="icon-caret-down"></i> PT ARTHA GRAHA SAMUDRA </a>
+                <i id="satu-icon" class="icon-caret-down"></i> PT ARTHA GRAHA SAMUDERA </a>
               </div>
               <div id="collapseOne" class="accordion-body collapse in">
                 <div class="accordion-inner">
@@ -100,7 +58,7 @@
                       </li>
                       <li>
                         Disewakan kepada pihak ketiga<br>
-                        Dalam hal ini kapal yang dioperasikan disewakan / dicharter kepada pihak ketiga, perusahaan pelayaran akan menerima pendapatan charter dan membiayai beberapa biaya sesuai dengan perjanjian charter (charter party). Beberapa perjanjian charter yang berlaku adalah sebagai berikut :
+                        Dalam hal ini kapal yang dioperasikan disewakan / dicharter kepada pihak ketiga, perusahaan pelayaran akan menerima pendapatan charter dan membiayai beberapa biaya sesuai dengan perjanjian charter (<i>charter party</i>). Beberapa perjanjian charter yang berlaku adalah sebagai berikut :
                         <ul>
                           <li>
                             Bareboat Charter<br>
@@ -112,7 +70,7 @@
                           </li>
                           <li>
                             Voyage Charter<br>
-                            Kegiatan pencharteran kapal untuk satu voyage atau lebih dari sati pelabuhan ke satu atau beberapa pelabuhan tujuan. Harga sewa / charter sering disebut freight, dimana seluruh biaya operasi menjadi beban pemilik kapal.
+                            Kegiatan pencharteran kapal untuk satu voyage atau lebih dari sati pelabuhan ke satu atau beberapa pelabuhan tujuan. Harga sewa / charter sering disebut <i>freight</i>, dimana seluruh biaya operasi menjadi beban pemilik kapal.
                           </li>
                         </ul>
                       </li>
@@ -221,9 +179,8 @@
   <script src="assets/js/custom.js"></script>
 
   <script type="text/javascript">
-    
-
     $( document ).ready(function() {
+      $('#service').addClass('active');
       var hehe = $('#params').val();
       if(hehe == 2){
         $('#satu-btn').removeClass('active');
@@ -252,7 +209,6 @@
         $('#collapseThree').css('height','auto');
       }
     });
-
   </script>
 
 

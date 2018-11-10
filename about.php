@@ -8,52 +8,9 @@
 </head>
 
 <body>
-  <header>
-    <!-- Navbar
-    ================================================== -->
-    <div class="cbp-af-header">
-      <div class=" cbp-af-inner">
-        <div class="container">
-          <div class="row">
-
-            <div class="span4">
-              <!-- logo -->
-              <div class="logo">
-                <a href="./"><img src="assets/img/slides/cuk.png" width="60rem"></a>
-              </div>
-              <!-- end logo -->
-            </div>
-
-            <div class="span8">
-              <!-- top menu -->
-              <div class="navbar">
-                <div class="navbar-inner">
-                  <nav>
-                    <ul class="nav topnav">
-                      <li>
-                        <a href="./"><i class="fas fa-home"></i> Home</a>
-                      </li>
-                      <li class="active">
-                        <a href="about.php"><i class="fas fa-info-circle"></i> About</a>
-                      </li>
-                      <li>
-                        <a href="service.php"><i class="fas fa-concierge-bell"></i> Service</a>
-                      </li>
-                      <li>
-                        <a href="contact.php"><i class="fas fa-phone"></i> Contact</a>
-                      </li>
-                    </ul>
-                  </nav>
-                </div>
-              </div>
-              <!-- end menu -->
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
+  <?php
+  include('header.php');
+  ?>
   <!-- Subhead
 ================================================== -->
   <section id="subintro">
@@ -65,7 +22,7 @@
         </div>
         <div class="span8">
           <ul class="breadcrumb notop">
-            <li><a href="#">Home</a><span class="divider">/</span></li>
+            <li><a href="./">Home</a><span class="divider">/</span></li>
             <li class="active">About</li>
           </ul>
         </div>
@@ -174,6 +131,11 @@
 
   <!-- Template Custom Javascript File -->
   <script src="assets/js/custom.js"></script>
+  <script type="text/javascript">
+    $( document ).ready(function() {
+      $('#about').addClass('active');
+    });
+  </script>
 
 </body>
 

@@ -18,12 +18,12 @@
     <div class="container">
       <div class="row">
         <div class="span4">
-          <h3>Get <strong>in touch</strong></h3>
+          <h3>See <strong>our work</strong></h3>
         </div>
         <div class="span8">
           <ul class="breadcrumb notop">
             <li><a href="./">Home</a><span class="divider">/</span></li>
-            <li class="active">Contact</li>
+            <li class="active">Gallery</li>
           </ul>
         </div>
       </div>
@@ -34,54 +34,61 @@
   <section id="maincontent">
     <div class="container">
       <div class="row">
-        <div class="span4">
-          <aside>
-            <div class="widget">
-              <h4>Get in touch with us</h4>
-              <ul>
-                <li><label><i class="fas fa-phone"></i> <strong>Phone</strong></label>
-                  <p>
-                    031 - 3281425<br>
-                    031 - 3281426
-                  </p>
-                </li>
-                <li><label><i class="fas fa-fax"></i> <strong>Fax</strong></label>
-                  <p>
-                    031 - 32910004
-                  </p>
-                </li>
-                <li><label><i class="fas fa-mobile-alt"></i> <strong>Mobile</strong></label>
-                  <p>
-                    08155144550<br>
-                    081287135518
-                  </p>
-                </li>
-                <li><label><i class="far fa-envelope"></i> <strong>Email</strong></label>
-                  <p>
-                    ags.sby96@gmail.com<br>
-                    agksiaman2@yahoo.com
-                  </p>
-                </li>
-                <li><label><i class="fas fa-map-marked-alt"></i> <strong>Office address</strong></label>
-                  <p>
-                    Jl. Teluk Penanjung No.4 RT.004/RW.05, Perak Utara, Pabean Cantian, Surabaya, Jawa Timur 60165
-                  </p>
-                </li>
-              </ul>
+        <ul class="portfolio-area da-thumbs">
+          <li class="portfolio-item">
+            <div class="span4">
+              <div class="thumbnail">
+                <div class="image-wrapp">
+                  <img src="assets/img/slides/refine/agslide/slide (16).jpeg" alt="Portfolio name" title="" />
+                  <article class="da-animate da-slideFromRight">
+                    <a href="g_samudera.php">
+                      <i class="icon-bg-light icon-link icon-circled icon-2x"></i>
+                    </a>
+                  </article>
+                </div>
+                <div class="desc">
+                  <h5><strong>PT ARTHA GRAHA SAMUDERA</strong></h5>
+                </div>
+              </div>
             </div>
-          </aside>
-        </div>
-        <div class="span8">
-          <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH7uJFMX41y0RjrlIfYAt25k&key=AIzaSyAi99TYLqlqTOPShWzT1sP6FmV_LxMmcPk" width="100%" height="610" frameborder="0" style="border:0" allowfullscreen></iframe>
-          </div>
-          <div class="spacer30">
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="span12">
-        </div>
+          </li>
+          
+          <li class="portfolio-item">
+            <div class="span4">
+              <div class="thumbnail">
+                <div class="image-wrapp">
+                  <img src="assets/img/slides/refine/agslide/slide (17).jpeg" alt="Portfolio name" title="" />
+                  <article class="da-animate da-slideFromRight">
+                    <a href="g_stuwarindo.php">
+                      <i class="icon-bg-light icon-link icon-circled icon-2x"></i>
+                    </a>
+                  </article>
+                </div>
+                <div class="desc">
+                  <h5><strong>PT ARTHA GRAHA STUWARINDO</strong></h5>
+                </div>
+              </div>
+            </div>
+          </li>
+          
+          <li class="portfolio-item">
+            <div class="span4">
+              <div class="thumbnail">
+                <div class="image-wrapp">
+                  <img src="assets/img/slides/refine/agslide/slide (74).jpeg" alt="Portfolio name" title="" />
+                  <article class="da-animate da-slideFromRight">
+                    <a href="g_kencana.php">
+                      <i class="icon-bg-light icon-link icon-circled icon-2x"></i>
+                    </a>
+                  </article>
+                </div>
+                <div class="desc">
+                  <h5><strong>PT ARTHA GRAHA KENCANA</strong></h5>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   </section>
@@ -114,6 +121,7 @@
     </div>
   </footer>
 
+
   <script src="assets/js/jquery.js"></script>
   <script src="assets/js/modernizr.js"></script>
   <script src="assets/js/jquery.easing.1.3.js"></script>
@@ -129,17 +137,14 @@
   <script src="assets/js/jquery.refineslide.js"></script>
   <script src="assets/js/jquery.ui.totop.js"></script>
 
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
-
   <!-- Template Custom Javascript File -->
   <script src="assets/js/custom.js"></script>
-
   <script type="text/javascript">
     $( document ).ready(function() {
-      $('#kontak').addClass('active');
+      $('#galeri').addClass('active');
     });
   </script>
+
 </body>
 
 </html>
