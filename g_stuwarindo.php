@@ -201,7 +201,8 @@
                   <div class="widget">
                     <h4>PT Artha Graha Stuwarindo</h4>
                     <p>
-                      Pelaksana pekerjaan bongkar dan muat barang dari kapal ke atas dermaga atau langsung keatas truck pengangkut ataupun ...<a href="service.php?id=2">read more</a>
+                      Pelaksana pekerjaan bongkar dan muat barang dari kapal ke atas dermaga atau langsung keatas truck pengangkut ataupun...<br>
+                      <a href="service.php?id=2">read more</a>
                     </p>
                   </div>
                 </aside>

@@ -201,7 +201,8 @@
                   <div class="widget">
                     <h4>PT Artha Graha Samudera</h4>
                     <p>
-                      Kegiatan pengusahaan kapal merupakan pokok dari perusahaan pelayaran. Kegiatan pengoperasian kapal sendiri. ...<a href="service.php">read more</a>
+                      Kegiatan pengusahaan kapal merupakan pokok dari perusahaan pelayaran. Kegiatan pengoperasian kapal sendiri...<br>
+                      <a href="service.php">read more</a>
                     </p>
                   </div>
                 </aside>

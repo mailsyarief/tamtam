@@ -201,7 +201,8 @@
                   <div class="widget">
                     <h4>PT Artha Graha Kencana</h4>
                     <p>
-                      Perusahaan yang bergerak dalam pemberian jasa untuk kepentingan pemilik barang (<i>shipper</i>)/consignee ...<a href="service.php?id=3">read more</a>
+                      Perusahaan yang bergerak dalam pemberian jasa untuk kepentingan pemilik barang (<i>shipper</i>)...<br>
+                      <a href="service.php?id=3">read more</a>
                     </p>
                   </div>
                 </aside>

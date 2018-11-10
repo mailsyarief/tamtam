@@ -238,6 +238,50 @@
           </div>
         </div>
       </div>
+      <div class="row">
+        <div class="span12">
+          <div class="solid_line">
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="span12">
+          <h3>Landing Craft Tank</h3>
+          <div class="row">
+            <div class="span6">
+              <img src="assets/img/slides/lct_1.jpg" alt="Landing Craft Tank side">
+            </div>
+            <div class="span6">
+              <img src="assets/img/slides/lct_2.jpg" alt="Landing Craft Tank top">
+            </div>
+          </div>
+
+          <div class="jumbotron">
+            <h5>Apa itu LCT?</h5>
+            <p>
+              Kapal LCT ( landing craft tank ) adalah salah satu jenis kapal yang berfungsi untuk angkutan di laut dan perairan yang dangkal. Kapal LCT ( landing craft tank ) biasanya digunakan untuk pengiriman antar pulau atau antar lokasi dengan jenis muatan (cargo) berupa barang berukuran besar dan alat berat.<span id="dots"> ...</span>
+            </p>
+            <span id="more" style="display: none;">
+              <p>
+                Menurut sejarahnya Kapal LCT ( landing craft tank ) adalah salah satu jenis kapal laut yang pada awalnya dirancang untuk keperluan militer Pasukan Sekutu setelah mengalami kekalahan besar di Wilayah Dunkirk. Pasukan Sekutu menyadari bahwa tidak ada jalan lain untuk memenangkan perang selain mendaratkan mesin-mesin perang mereka di Eropa daratan. Winston Churchill, Perdana Menteri Inggris waktu itu mengusulkan untuk merancang suatu jenis kapal yang bisa mengangkut dan mendaratkan beberapa tank sekaligus di pantai-pantai Eropa. Dari cerita tersebut maka lahirlah salah satu jenis kapal laut yaitu Landing Craft Tank atau dikenal dengan sebutan saat ini yaitu Kalap LCT.
+              </p>
+              <p>
+                Saat ini Kapal LCT ( landing craft tank ) dipergunakan untuk mengangkut muatan (cargo) berupa alat-alat berat dan bahan-bahan konstruksi. Dengan Kapal LCT ( landing craft tank ) , alat-alat dan bahan-bahan tersebut dapat diangkut hingga ke daerah-daerah terpencil yang sulit dijangkau dengan kapal pengangkut biasa.
+              </p>
+              <p>
+                Kapal LCT ( landing craft tank ) ini memiliki dek yang luas dan rata sehingga cocok untuk mengangkut tank, prajurit, alat berat, mobil, truck dan bahan logistik yang lain. Dalam perkembangannya, dek Kapal LCT ( landing craft tank ) juga dapat dipasangi senjata anti serangan udara, meriam dan juga peluncur roket. Beberapa Kapal LCT ( landing craft tank ) juga digunakan sebagai penyapu ranjau.
+              </p>
+              <p>
+                Saat ini Kapal LCT ( landing craft tank ) banyak digunakan untuk tujuan komersial karena kapal ini sangat efisien untuk mengangkut heavy cargo, bulldozer, excavator, dump truck, loader dan alat berat lainnya. Kapal LCT ( landing craft tank ) ini sangat diperlukan untuk alat transportasi peralatan pekerjaan pertambangan dan proyek konstruksi . Selain itu bahan-bahan konstruksi berukuran besar seperti pipa besi, lembaran baja, tanki air dan sebagainya juga dapat diangkut dengan Kapal LCT ( landing craft tank ).
+              </p>
+              <p>
+                Penggunaan Kapal LCT ( landing craft tank ) untuk mengangkut barang ke daerah-daerah pertambangan, terutama yang terletak di pulau atau daerah terpencil akan lebih efisien daripada menggunakan kapal tongkang. Hal ini disebabkan karena Kapal LCT ( landing craft tank ) tidak memerlukan pelabuhan yang besar untuk mendaratkan barang yang diangkutnya karena Kapal LCT ( landing craft tank ) dapat melakukan bongkar muat hampir di area mana saja.
+              </p>
+            </span>
+            <button type="button" class="btn btn-link" id="read_btn" onclick="myFunction()" style="padding: 0;">Read more</button>
+          </div>
+        </div>
+      </div>
       <!-- blank divider -->
       <div class="row">
         <div class="span12">
@@ -295,6 +339,21 @@
     $( document ).ready(function() {
       $('#home').addClass('active');
     });
+    function myFunction() {
+      var dots = document.getElementById("dots");
+      var moreText = document.getElementById("more");
+      var btnText = document.getElementById("read_btn");
+
+      if (dots.style.display === "none") {
+        dots.style.display = "inline";
+        btnText.innerHTML = "Read more";
+        moreText.style.display = "none";
+      } else {
+        dots.style.display = "none";
+        btnText.innerHTML = "Read less";
+        moreText.style.display = "inline";
+      }
+    }
   </script>
 
 </body>
