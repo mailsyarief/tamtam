@@ -93,7 +93,7 @@
         <div class="row">
           <div class="span6">
             <p>
-              &copy; Artha Graha 2018
+              
             </p>
           </div>
           <div class="span6">
