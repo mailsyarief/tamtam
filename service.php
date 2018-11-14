@@ -8,51 +8,9 @@
 </head>
 
 <body>
-  <header>
-    <!-- Navbar
-    ================================================== -->
-    <div class="cbp-af-header">
-      <div class=" cbp-af-inner">
-        <div class="container">
-          <div class="row">
-
-            <div class="span4">
-              <!-- logo -->
-              <div class="logo">
-                <a href="./"><img src="assets/img/slides/cuk.png" width="60rem"></a>
-              </div>
-              <!-- end logo -->
-            </div>
-
-            <div class="span8">
-              <!-- top menu -->
-              <div class="navbar">
-                <div class="navbar-inner">
-                  <nav>
-                    <ul class="nav topnav">
-                      <li>
-                        <a href="./"><i class="fas fa-home"></i> Home</a>
-                      </li>
-                      <li>
-                        <a href="about.php"><i class="fas fa-info-circle"></i> About</a>
-                      </li>
-                      <li class="active">
-                        <a href="service.php"><i class="fas fa-concierge-bell"></i> Service</a>
-                      </li>
-                      <li>
-                        <a href="contact.php"><i class="fas fa-phone"></i> Contact</a>
-                      </li>
-                    </ul>
-                  </nav>
-                </div>
-              </div>
-              <!-- end menu -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
+  <?php
+  include('header.php');
+  ?>
   <!-- Subhead
 ================================================== -->
   <section id="subintro">
@@ -64,7 +22,7 @@
         </div>
         <div class="span8">
           <ul class="breadcrumb notop">
-            <li><a href="#">Home</a><span class="divider">/</span></li>
+            <li><a href="./">Home</a><span class="divider">/</span></li>
             <li class="active">About</li>
           </ul>
         </div>
@@ -72,6 +30,11 @@
     </div>
 
   </section>
+  <?php
+  if(isset($_GET['id'])){
+    echo '<input type="hidden" id="params" value="' .$_GET['id']. '">';
+  }
+  ?>
 
   <section id="maincontent">
     <div class="container">
@@ -81,8 +44,8 @@
           <div class="accordion" id="accordion2">
             <div class="accordion-group">
               <div class="accordion-heading">
-                <a class="accordion-toggle active" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-                <i class="icon-caret-down"></i> PT ARTHA GRAHA SAMUDRA </a>
+                <a id="satu-btn" class="accordion-toggle active" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                <i id="satu-icon" class="icon-caret-down"></i> PT ARTHA GRAHA SAMUDERA </a>
               </div>
               <div id="collapseOne" class="accordion-body collapse in">
                 <div class="accordion-inner">
@@ -95,7 +58,7 @@
                       </li>
                       <li>
                         Disewakan kepada pihak ketiga<br>
-                        Dalam hal ini kapal yang dioperasikan disewakan / dicharter kepada pihak ketiga, perusahaan pelayaran akan menerima pendapatan charter dan membiayai beberapa biaya sesuai dengan perjanjian charter (charter party). Beberapa perjanjian charter yang berlaku adalah sebagai berikut :
+                        Dalam hal ini kapal yang dioperasikan disewakan / dicharter kepada pihak ketiga, perusahaan pelayaran akan menerima pendapatan charter dan membiayai beberapa biaya sesuai dengan perjanjian charter (<i>charter party</i>). Beberapa perjanjian charter yang berlaku adalah sebagai berikut :
                         <ul>
                           <li>
                             Bareboat Charter<br>
@@ -107,7 +70,7 @@
                           </li>
                           <li>
                             Voyage Charter<br>
-                            Kegiatan pencharteran kapal untuk satu voyage atau lebih dari sati pelabuhan ke satu atau beberapa pelabuhan tujuan. Harga sewa / charter sering disebut freight, dimana seluruh biaya operasi menjadi beban pemilik kapal.
+                            Kegiatan pencharteran kapal untuk satu voyage atau lebih dari sati pelabuhan ke satu atau beberapa pelabuhan tujuan. Harga sewa / charter sering disebut <i>freight</i>, dimana seluruh biaya operasi menjadi beban pemilik kapal.
                           </li>
                         </ul>
                       </li>
@@ -118,25 +81,30 @@
             </div>
             <div class="accordion-group">
               <div class="accordion-heading">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-                <i class="icon-caret-right"></i> PT ARTHA GRAHA STUWARINDO </a>
+                <a id="dua-btn" class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                <i id="dua-icon" class="icon-caret-right"></i> PT ARTHA GRAHA STUWARINDO </a>
               </div>
               <div id="collapseTwo" class="accordion-body collapse">
                 <div class="accordion-inner">
                   <p>
-                    Perusahaan yang bergerak dalam kegiatan membongkar/memuat barang (ex tackle) dari/ke kapal dengan lingkup :
-                    <ol type="a">
-                      <li>Membongkar barang dari kapal (ex tackle) dan meletakkan nya diatas dermaga ataupun angkutan bandar (ex tackle)</li>
-                      <li>Memuat barang (ex tackle) dari dermaga atau truck/gerbong maupun nagkutan bandar keatas kapal pengangkutan (ex tackle)</li>
-                    </ol>
+                    Pelaksana pekerjaan bongkar dan muat barang dari kapal ke atas dermaga atau langsung keatas truck pengangkut ataupun langsung ke atas kapal penerima lain nya (<i>transshipment</i> ataupun <i>ship to ship</i>) dan sebaliknya. Kegiatan ini juga disebut sebagai <i>Board Stevedoring</i>. Untuk menunjang kegiatan ini diperlukan penyediaan forklift yang sesuai.
+                  </p>
+                  <p>
+                    Kegiatan <i>board stevedoring</i> ini juga mencakup kemampuan untuk menangani muatan berat atau sering disebut <i>Heavy Lift</i> yang memerlukan keahlian tertentu dengan menggunakan peralatan khusus yang sesuai (<i>Heavy Lift Gears</i>).
+                  </p>
+                  <p>
+                    <i>Cargo Doring</i> sebagai kepanjangan ataupun mitra kerja yang menerima barang bongkaran dari kapal untuk dibawa ke tempat penumpukan di dalam Gudang atau ke lapangan penumpukan ataupun sebaliknya mengumpan barang yang akan dimuatkan ke atas kapal dari tempat pengumpulkan dengan menyediakan peralatan angkut yang diperlukan.
+                  </p>
+                  <p>
+                    <i>Cargo Doring</i> juga bekerja sama dengan petugas E.M.K.L di dalam penyiapan dokumen yang bersangkutan surat jalan untuk barang import maupun surat pengantar untuk barang export. Kedua jenis kegiatan ini akan secara bersinergi berkemampuan untuk menangani barang muatan berat (<i>Heavy Lift</i>),Muatan Cair (<i>Liquid Cargo</i>) sampai-sampai pada barang berbahaya (<i>Dangerous Goods</i>).
                   </p>
                 </div>
               </div>
             </div>
             <div class="accordion-group">
               <div class="accordion-heading">
-                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
-                <i class="icon-caret-right"></i> PT ARTHA GRAHA KENCANA </a>
+                <a id="tiga-btn" class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+                <i id="tiga-icon" class="icon-caret-right"></i> PT ARTHA GRAHA KENCANA </a>
               </div>
               <div id="collapseThree" class="accordion-body collapse">
                 <div class="accordion-inner">
@@ -190,6 +158,7 @@
     </div>
   </footer>
 
+
   <script src="assets/js/jquery.js"></script>
   <script src="assets/js/modernizr.js"></script>
   <script src="assets/js/jquery.easing.1.3.js"></script>
@@ -208,6 +177,40 @@
 
   <!-- Template Custom Javascript File -->
   <script src="assets/js/custom.js"></script>
+
+  <script type="text/javascript">
+    $( document ).ready(function() {
+      $('#service').addClass('active');
+      var hehe = $('#params').val();
+      if(hehe == 2){
+        $('#satu-btn').removeClass('active');
+        $('#satu-icon').removeClass('icon-caret-down');
+        $('#satu-icon').addClass('icon-caret-right');
+        $('#collapseOne').addClass('in');
+        $('#collapseOne').css('height','0px');
+
+        $('#dua-btn').addClass('active');
+        $('#dua-icon').removeClass('icon-caret-right');
+        $('#dua-icon').addClass('icon-caret-down');
+        $('#collapseTwo').removeClass('in');
+        $('#collapseTwo').css('height','auto');
+      }
+      else if (hehe == 3) {
+        $('#satu-btn').removeClass('active');
+        $('#satu-icon').removeClass('icon-caret-down');
+        $('#satu-icon').addClass('icon-caret-right');
+        $('#collapseOne').addClass('in');
+        $('#collapseOne').css('height','0px');
+
+        $('#tiga-btn').addClass('active');
+        $('#tiga-icon').removeClass('icon-caret-right');
+        $('#tiga-icon').addClass('icon-caret-down');
+        $('#collapseThree').removeClass('in');
+        $('#collapseThree').css('height','auto');
+      }
+    });
+  </script>
+
 
 </body>
 

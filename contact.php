@@ -8,53 +8,9 @@
 </head>
 
 <body>
-  <header>
-    <!-- Navbar
-    ================================================== -->
-    <div class="cbp-af-header">
-      <div class=" cbp-af-inner">
-        <div class="container">
-          <div class="row">
-
-            <div class="span4">
-              <!-- logo -->
-              <div class="logo">
-                <a href="./"><img src="assets/img/slides/cuk.png" width="60rem"></a>
-                <!-- <img src="assets/img/logo.png" alt="" /> -->
-              </div>
-              <!-- end logo -->
-            </div>
-
-            <div class="span8">
-              <!-- top menu -->
-              <div class="navbar">
-                <div class="navbar-inner">
-                  <nav>
-                    <ul class="nav topnav">
-                      <li>
-                        <a href="./"><i class="fas fa-home"></i> Home</a>
-                      </li>
-                      <li>
-                        <a href="about.php"><i class="fas fa-info-circle"></i> About</a>
-                      </li>
-                      <li>
-                        <a href="service.php"><i class="fas fa-concierge-bell"></i> Service</a>
-                      </li>
-                      <li class="active">
-                        <a href="contact.php"><i class="fas fa-phone"></i> Contact</a>
-                      </li>
-                    </ul>
-                  </nav>
-                </div>
-              </div>
-              <!-- end menu -->
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
+  <?php
+  include('header.php');
+  ?>
   <!-- Subhead
 ================================================== -->
   <section id="subintro">
@@ -66,7 +22,7 @@
         </div>
         <div class="span8">
           <ul class="breadcrumb notop">
-            <li><a href="#">Home</a><span class="divider">/</span></li>
+            <li><a href="./">Home</a><span class="divider">/</span></li>
             <li class="active">Contact</li>
           </ul>
         </div>
@@ -87,6 +43,11 @@
                   <p>
                     031 - 3281425<br>
                     031 - 3281426
+                  </p>
+                </li>
+                <li><label><i class="fas fa-fax"></i> <strong>Fax</strong></label>
+                  <p>
+                    031 - 32910004
                   </p>
                 </li>
                 <li><label><i class="fas fa-mobile-alt"></i> <strong>Mobile</strong></label>
@@ -112,7 +73,7 @@
         </div>
         <div class="span8">
           <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH7uJFMX41y0RjrlIfYAt25k&key=AIzaSyAi99TYLqlqTOPShWzT1sP6FmV_LxMmcPk" width="100%" height="530" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJH7uJFMX41y0RjrlIfYAt25k&key=AIzaSyAi99TYLqlqTOPShWzT1sP6FmV_LxMmcPk" width="100%" height="610" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
           <div class="spacer30">
           </div>
@@ -174,6 +135,11 @@
   <!-- Template Custom Javascript File -->
   <script src="assets/js/custom.js"></script>
 
+  <script type="text/javascript">
+    $( document ).ready(function() {
+      $('#kontak').addClass('active');
+    });
+  </script>
 </body>
 
 </html>
