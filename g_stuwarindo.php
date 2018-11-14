@@ -56,7 +56,7 @@
                     </li>
                     <li>
                       <img src="assets/img/slides/g_stuwarindo/stu (8).jpeg" alt="" />
-                    <li>
+                    </li>
                     <li>
                       <img src="assets/img/slides/g_stuwarindo/stu (9).jpeg" alt="" />
                     </li>

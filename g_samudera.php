@@ -44,7 +44,7 @@
                   <ul class="slides">
                     <li>
                       <img src="assets/img/slides/g_samudera/gs (8).jpg" alt="" />
-                    <li>
+                    </li>
                     <li>
                       <img src="assets/img/slides/g_samudera/gs (9).jpg" alt="" />
                     </li>

@@ -44,7 +44,7 @@
                   <ul class="slides">
                     <li>
                       <img src="assets/img/slides/g_kencana/gk (8).jpg" alt="" />
-                    <li>
+                    </li>
                     <li>
                       <img src="assets/img/slides/g_kencana/gk (9).jpg" alt="" />
                     </li>
@@ -141,7 +141,7 @@
       $('#galeri').addClass('active');
     });
   </script>
-  
+
   <script src="assets/js/custom.js"></script>
 
 </body>
