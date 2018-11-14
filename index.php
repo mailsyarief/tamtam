@@ -15,7 +15,8 @@
     <div class="container">
       <div class="row">
         <div class="span6">
-          <h2><strong>Professional <span class="highlight primary">Transportasi</span></strong></h2>
+          <h2 style="margin-bottom: 0;"><strong><span class="highlight primary">Professional</span></strong></h2><br>
+          <h2><strong>Dalam Transportasi</strong></h2>
           <br>
           <p class="lead">
             Perusahan yang beroperasi selama 23 tahun. Perusahaan kami melayani berbagai bidang dalam solusi kargo serta dapat menjadi mitra yang dapat diandalkan untuk saat ini dan masa depan.
@@ -28,160 +29,160 @@
             <div class="section-2 group">
               <ul id="images" class="rs-slider">
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (9).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (9).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (10).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (10).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (11).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (11).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (15).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (15).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (16).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (16).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (17).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (17).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (18).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (18).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (19).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (19).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (21).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (21).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (22).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (22).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (23).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (23).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (24).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (24).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (25).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (25).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (27).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (27).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (28).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (28).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (29).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (29).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (30).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (30).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (32).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (32).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (42).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (42).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (43).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (43).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (45).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (45).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (48).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (48).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (50).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (50).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (53).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (53).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (54).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (54).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (59).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (59).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (60).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (60).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (61).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (61).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (62).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (62).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (63).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (63).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (64).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (64).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (65).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (65).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (67).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (67).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (69).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (69).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (70).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (70).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (71).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (71).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (72).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (72).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (73).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (73).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (74).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (74).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (75).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (75).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (76).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (76).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (77).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (77).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (78).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (78).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (79).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (79).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (80).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (80).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (81).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (81).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (82).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (82).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (83).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (83).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (84).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (84).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (99).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (99).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (100).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (100).jpeg" alt="" />
                 </li>
                 <li class="group">
-                  <img src="assets/img/slides/refine/agslide/slide (101).jpeg" alt="" />
+                  <img src="assets/img/slides/refine/slide (101).jpeg" alt="" />
                 </li>
               </ul>
             </div>
@@ -276,6 +277,29 @@
               </p>
               <p>
                 Penggunaan Kapal LCT ( landing craft tank ) untuk mengangkut barang ke daerah-daerah pertambangan, terutama yang terletak di pulau atau daerah terpencil akan lebih efisien daripada menggunakan kapal tongkang. Hal ini disebabkan karena Kapal LCT ( landing craft tank ) tidak memerlukan pelabuhan yang besar untuk mendaratkan barang yang diangkutnya karena Kapal LCT ( landing craft tank ) dapat melakukan bongkar muat hampir di area mana saja.
+              </p>
+              <p>
+                Jenis kapal LCT ( landing craft tank ) ini ada 2, yaitu :<br>
+                <span style="margin-left: 20px;">
+                  a. TUG Boat<br>
+                  <div class="row">
+                    <div class="span6">
+                      <img src="assets/img/slides/tug_1.png">
+                    </div>
+                    <div class="span6">
+                      <img src="assets/img/slides/tug_2.png">
+                    </div>
+                  </div>
+                  b. Barge/Tongkang Boat<br><br>
+                  <div class="row">
+                    <div class="span6">
+                      <img src="assets/img/slides/barge_1.png">
+                    </div>
+                    <div class="span6">
+                      <img src="assets/img/slides/barge_2.png">
+                    </div>
+                  </div>
+                </span>
               </p>
             </span>
             <button type="button" class="btn btn-link" id="read_btn" onclick="myFunction()" style="padding: 0;">Read more</button>

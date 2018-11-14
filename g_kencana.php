@@ -43,154 +43,31 @@
                 <div class="flexslider">
                   <ul class="slides">
                     <li>
-                      <img src="assets/img/slides/refine/agslide/slide (74).jpeg" alt="" />
+                      <img src="assets/img/slides/g_kencana/gk (8).jpg" alt="" />
+                    <li>
+                    <li>
+                      <img src="assets/img/slides/g_kencana/gk (9).jpg" alt="" />
                     </li>
                     <li>
-                      <img src="assets/img/slides/refine/agslide/slide (75).jpeg" alt="" />
+                      <img src="assets/img/slides/g_kencana/gk (1).jpg" alt="" />
                     </li>
                     <li>
-                      <img src="assets/img/slides/refine/agslide/slide (76).jpeg" alt="" />
+                      <img src="assets/img/slides/g_kencana/gk (2).jpg" alt="" />
                     </li>
                     <li>
-                      <img src="assets/img/slides/refine/agslide/slide (77).jpeg" alt="" />
+                      <img src="assets/img/slides/g_kencana/gk (3).jpg" alt="" />
                     </li>
                     <li>
-                      <img src="assets/img/slides/refine/agslide/slide (78).jpeg" alt="" />
+                      <img src="assets/img/slides/g_kencana/gk (4).jpg" alt="" />
                     </li>
                     <li>
-                      <img src="assets/img/slides/refine/agslide/slide (79).jpeg" alt="" />
+                      <img src="assets/img/slides/g_kencana/gk (5).jpg" alt="" />
                     </li>
                     <li>
-                      <img src="assets/img/slides/refine/agslide/slide (80).jpeg" alt="" />
+                      <img src="assets/img/slides/g_kencana/gk (6).jpg" alt="" />
                     </li>
                     <li>
-                      <img src="assets/img/slides/refine/agslide/slide (81).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (82).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (83).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (84).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (99).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (100).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (101).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (9).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (10).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (11).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (15).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (18).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (19).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (21).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (22).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (23).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (24).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (25).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (27).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (28).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (29).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (30).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (32).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (42).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (43).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (45).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (48).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (50).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (53).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (54).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (59).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (60).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (61).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (62).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (63).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (64).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (65).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (67).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (69).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (70).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (71).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (72).jpeg" alt="" />
-                    </li>
-                    <li>
-                      <img src="assets/img/slides/refine/agslide/slide (73).jpeg" alt="" />
+                      <img src="assets/img/slides/g_kencana/gk (7).jpg" alt="" />
                     </li>
                   </ul>
                 </div>
@@ -259,12 +136,13 @@
   <script src="assets/js/jquery.ui.totop.js"></script>
 
   <!-- Template Custom Javascript File -->
-  <script src="assets/js/custom.js"></script>
   <script type="text/javascript">
     $( document ).ready(function() {
       $('#galeri').addClass('active');
     });
   </script>
+  
+  <script src="assets/js/custom.js"></script>
 
 </body>
 

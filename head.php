@@ -20,8 +20,8 @@
   <link href="assets/color/default.css" rel="stylesheet">
 
   <!-- fav and touch icons -->
-  <link rel="shortcut icon" href="assets/img/slides/cuk.png">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/img/slides/cuk.png">
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/img/slides/cuk.png">
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/img/slides/cuk.png">
-  <link rel="apple-touch-icon-precomposed" href="assets/img/slides/cuk.png">
+  <link rel="shortcut icon" href="assets/img/slides/logo.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/img/slides/logo.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/img/slides/logo.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/img/slides/logo.png">
+  <link rel="apple-touch-icon-precomposed" href="assets/img/slides/logo.png">

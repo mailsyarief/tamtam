@@ -39,7 +39,7 @@
             <div class="span4">
               <div class="thumbnail">
                 <div class="image-wrapp">
-                  <img src="assets/img/slides/refine/agslide/slide (16).jpeg" alt="Portfolio name" title="" />
+                  <img src="assets/img/slides/refine/slide (16).jpeg" alt="Portfolio name" title="" />
                   <article class="da-animate da-slideFromRight">
                     <a href="g_samudera.php">
                       <i class="icon-bg-light icon-link icon-circled icon-2x"></i>
@@ -57,7 +57,7 @@
             <div class="span4">
               <div class="thumbnail">
                 <div class="image-wrapp">
-                  <img src="assets/img/slides/refine/agslide/slide (17).jpeg" alt="Portfolio name" title="" />
+                  <img src="assets/img/slides/refine/slide (17).jpeg" alt="Portfolio name" title="" />
                   <article class="da-animate da-slideFromRight">
                     <a href="g_stuwarindo.php">
                       <i class="icon-bg-light icon-link icon-circled icon-2x"></i>
@@ -75,7 +75,7 @@
             <div class="span4">
               <div class="thumbnail">
                 <div class="image-wrapp">
-                  <img src="assets/img/slides/refine/agslide/slide (74).jpeg" alt="Portfolio name" title="" />
+                  <img src="assets/img/slides/refine/slide (74).jpeg" alt="Portfolio name" title="" />
                   <article class="da-animate da-slideFromRight">
                     <a href="g_kencana.php">
                       <i class="icon-bg-light icon-link icon-circled icon-2x"></i>

@@ -9,8 +9,8 @@
 
             <div class="span4">
               <!-- logo -->
-              <div class="logo">
-                <a href="./"><img src="assets/img/slides/cuk.png" width="60rem"></a>
+              <div class="logo" style="margin-bottom: 10px;">
+                <a href="./"><img src="assets/img/slides/logo.png" width="55rem"></a>
                 <!-- <img src="assets/img/logo.png" alt="" /> -->
               </div>
               <!-- end logo -->
